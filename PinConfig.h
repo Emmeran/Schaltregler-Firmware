@@ -27,7 +27,7 @@
 
 #include "Protocols.h"
 
-#include "AtkaSPOT_Schaltregler_v1.h"
+#include "Schaltregler-Firmware.h"
 #include "SDCard.h"
 #include "Ethernets.h"
 #include "SerialCommunication.h"
