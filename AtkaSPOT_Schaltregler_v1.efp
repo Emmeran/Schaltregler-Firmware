@@ -1,0 +1,5 @@
+[General]
+CPPFILES=AtkaSPOT_Schaltregler_v1.ino, Ethernet.ino, Ethernets.h, Outputs.h, PinConfig.h, PinConfig.ino, Protocols.h, SDCard.h, SDCard.ino, SerialCommunication.h, SerialCommunication.ino, Spannungsmessung.h, Spannungsmessung.ino, State.h, Strommessung.h, Strommessung.ino, Temperatur.h, Temperatur.ino, UdpCommunication.h, UdpCommunication.ino
+LIBS=/home/emmeran/Downloads/arduino-1.0.1/libraries/SPI, /home/emmeran/Downloads/arduino-1.0.1/libraries/Ethernet, /home/emmeran/Downloads/arduino-1.0.1/libraries/SdFat, /home/emmeran/sketchbook/libraries/OneWire
+BUILDDIR=/devel/EthernetFlasher-build-desktop/AtkaSPOT_Schaltregler_v1/build/
+PROFILE=Default 115200
